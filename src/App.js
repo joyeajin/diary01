@@ -19,7 +19,7 @@ const dummyList = [
   },
   {
     id : 3,
-    author : '쪼롱이',
+    author : '쪼롱이안녕',
     content : '하이3',
     emotion : 2,
     created_date : new Date().getTime(),
